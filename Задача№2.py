@@ -4,5 +4,5 @@ sum = 0
 while number != 0:
     sum += number % 10
     number //= 10
-print(sum)
+print(f"Сумма цифр в введенном числе составляет {sum}")
 
